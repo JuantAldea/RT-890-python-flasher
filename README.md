@@ -1,4 +1,4 @@
-# Radtel RT-890 Python Firmware Flasher
+# Radtel RT-890 Firmware Flasher
 An RT-890 flasher tool written in Python. Might work with the Ruyage UV58Plus and the Iradio UV 5118 plus.
 ## Disclaimer
 He who enters here is proceeding at his own risk, and will void the warranty of his walkie.
